@@ -114,17 +114,19 @@ void mouseReleased() {
  - fix tower pickup location
  - autoplay button
  - add wave counter
-   
+ - bomb tower
+ - explosion damage
+ - fully implement boomerang monkey
+ - add 2 new towers
+ - move upgrade menu
+ - add powerup icons
+ - add new powerup
+ 
  
  --------------------------
  HALF DONE
  --------------------------
  
- - move upgrade menu
- - fully implement boomerang monkey
- - add 2 new towers
- - add powerup icons
- - add new powerup
  
  
  --------------------------
@@ -139,11 +141,10 @@ void mouseReleased() {
  - slow          
  - boomerang     DONE
  - sniper        
+ - bomb          
  
- bomb tower
  
- explosion damage
- 
+ balance towers/waves
  
  
  */
