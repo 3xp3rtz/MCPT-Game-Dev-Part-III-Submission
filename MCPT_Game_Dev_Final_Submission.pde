@@ -9,6 +9,7 @@ void setup() {
   initDragAndDrop();
   initPath();
   initUpgradeMenu();
+  initBalloonChildren();
   createWaves();
 }
 
@@ -105,9 +106,6 @@ void keyPressed() {
 
 /*
 
- 
- 
- 
  TO DO LIST
  
  --------------------------
